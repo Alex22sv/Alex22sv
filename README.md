@@ -13,7 +13,7 @@ I'm Alexander from El Salvador, and I like to create programs, mostly websites b
 - 🔭 I’m currently working on ShadowPlayersDev 
 - 🌱 I’m currently learning JS 
 - 👯 I’m looking to collaborate on any web development projects and maybe Discord bots too 
-- 😄 Pronouns: he/him 
+- 👨 Pronouns: he/him 
 
 #### Social media
 * [GitHub](https://github.com/Alex22-SV)
