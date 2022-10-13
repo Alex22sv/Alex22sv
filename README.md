@@ -22,4 +22,4 @@ I'm Alexander from El Salvador, and I like to create programs, mostly websites b
 * [My website](https://alex22sv.tk)
 
 #### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex22-sv&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex22sv&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) 
