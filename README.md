@@ -1,6 +1,6 @@
 ### Hello there, I'm Alex
 #### Web and Minecraft plugin developer
-![A Web developer](https://alex22sv.tk/images/whitebanner.png)
+![A Web developer](https://cdn.discordapp.com/attachments/864334713028214799/1043550441851600977/IMG_1114.png)
 
 I'm Alexander from El Salvador. I like to create programs, mostly websites but I've also developed Discord bots in the past. Recently I've started developing Minecraft plugins. I'm interested on working on new and innovative projects. I can work alone and with teams. My native language is Spanish but I can fluently speak and understand English. In my free time I like to play videogames (mostly CoD and Hollow Knight) but also listen to Lofi music.
 
