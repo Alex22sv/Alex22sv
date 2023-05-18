@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi! I'm Alex22_SV
-You can find me on my website [here](https://alex22sv.tk).<br>🔭 I’m currently working on a personal project called "Starlex"<br>🌱 I’m currently learning back-end web development<br>👯 I’m looking to collaborate on any web development projects and maybe Discord bots too to learn more about development<br>👨 Pronouns: he/him
+You can find me on my website [here](https://alex22sv.me).<br>🔭 I’m currently working on a personal project called "Starlex"<br>🌱 I’m currently learning back-end web development<br>👯 I’m looking to collaborate on any web development projects and maybe Discord bots too to learn more about development<br>👨 Pronouns: he/him
 
 
 ## 🌐 Socials:
